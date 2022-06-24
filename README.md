@@ -1,5 +1,6 @@
 # Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-studio
-## Aim : To Execute a program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio.
+## Aim :
+To Execute a program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio.
 
 ##Components Required: Doosan Industrial Collaborative Robot, 2 jaw gripper ,*DRL (Doosan Robotics Language) Studio Software
 
@@ -30,9 +31,7 @@ Controllers: Controllers synchronize and control the movement of different actua
 
 
 Procedure:
-// Roll no:
 
-//Name:
 
 1) Place the given object on table (Workspace).
 2) Use 2 Jaw Gripper to pick the object from P1 (Pick Point). 
@@ -40,12 +39,16 @@ Procedure:
 ............
 
 
+## Program 
+
+![2](https://user-images.githubusercontent.com/74660507/175454530-6bf50d16-5541-4add-a617-3bcdc03e51ea.jpeg)
+
+
 ## output : 
+
+![1](https://user-images.githubusercontent.com/74660507/175454442-e723be1f-1c43-4c07-97d7-835787d1e83d.jpeg)
 
 
 ## Results: 
 
-
-
-
-
+Thus, program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio is executed.
